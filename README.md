@@ -38,10 +38,6 @@ Clean UI, smooth animations, and a seamless shopping experience from browse to c
       <img src="screenshots/product.png" width="200" alt="Product Detail"/>
       <br/><sub><b>Product Detail</b></sub>
     </td>
-    <td align="center">
-      <img src="screenshots/wishlist.png" width="200" alt="Wishlist"/>
-      <br/><sub><b>Wishlist</b></sub>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -56,23 +52,9 @@ Clean UI, smooth animations, and a seamless shopping experience from browse to c
       <img src="screenshots/orders.png" width="200" alt="Orders"/>
       <br/><sub><b>Order Tracking</b></sub>
     </td>
-    <td align="center">
-      <img src="screenshots/profile.png" width="200" alt="Profile"/>
-      <br/><sub><b>Profile</b></sub>
-    </td>
   </tr>
 </table>
 </div>
-
----
-
-## 🎬 Demo
-
-<div align="center">
-  <img src="screenshots/demo.gif" width="280" alt="Alhamzi App Demo"/>
-</div>
-
-> *Record your screen and convert to GIF using [ScreenToGif](https://www.screentogif.com/) (Windows) or [Gifox](https://gifox.app/) (Mac)*
 
 ---
 
